@@ -2,15 +2,7 @@
 
 ## Overview
 
-This repository contains code and resources related to exploratory data analysis (EDA) across topics that I find interesting. Right now it's just food, which should tell you a lot about me.
-
-## Table of Contents
-
-- [Getting Started](#getting-started)
-- [Requirements](#requirements)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+This repository contains code and resources related to exploratory data analysis (EDA) across topics that I find interesting. Right now the content is all about food, which should tell you a lot about me.
 
 ## Getting Started
 
