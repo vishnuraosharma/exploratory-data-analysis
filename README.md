@@ -1,10 +1,8 @@
 # Exploratory Data Analysis
 
-![GitHub License](https://img.shields.io/github/license/vishnuraosharma/exploratory-data-analysis)
-
 ## Overview
 
-This repository contains code and resources related to exploratory data analysis (EDA).
+This repository contains code and resources related to exploratory data analysis (EDA) across topics that I find interesting. Right now it's just food, which should tell you a lot about me.
 
 ## Table of Contents
 
