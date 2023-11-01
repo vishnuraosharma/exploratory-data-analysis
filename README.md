@@ -15,3 +15,4 @@ This project assumes you have the following software and libraries installed:
 - Python (3.6+)
 - Jupyter Notebook
 - Required Python libraries (check the Jupyter notebooks for specifics)
+- See requirements.txt for required
