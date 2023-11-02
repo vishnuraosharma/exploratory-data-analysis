@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e43ea1cb-cb88-4be5-a3d7-0801dd332e4d" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Kcal Predictions/Predicting Kilocalories with AutoML.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Kcal Predictions/Predicting Kilocalories with AutoML.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -57,7 +58,7 @@
       <option name="presentableId" value="Default" />
       <updated>1698101494972</updated>
       <workItem from="1698101497136" duration="24067000" />
-      <workItem from="1698850046306" duration="67580000" />
+      <workItem from="1698850046306" duration="69232000" />
     </task>
     <servers />
   </component>
