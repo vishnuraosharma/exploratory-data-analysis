@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e43ea1cb-cb88-4be5-a3d7-0801dd332e4d" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Kcal Predictions/Predicting Kilocalories with AutoML.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Kcal Predictions/Predicting Kilocalories with AutoML.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kcal Predictions/Predicting_Kilocalories_with_Python.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Kcal Predictions/Predicting_Kilocalories_with_Python.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,7 +57,7 @@
       <option name="presentableId" value="Default" />
       <updated>1698101494972</updated>
       <workItem from="1698101497136" duration="24067000" />
-      <workItem from="1698850046306" duration="38368000" />
+      <workItem from="1698850046306" duration="38715000" />
     </task>
     <servers />
   </component>
