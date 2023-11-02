@@ -58,22 +58,11 @@
       <option name="presentableId" value="Default" />
       <updated>1698101494972</updated>
       <workItem from="1698101497136" duration="24067000" />
-      <workItem from="1698850046306" duration="58951000" />
+      <workItem from="1698850046306" duration="64365000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
-          <url>notebook:///Users/vraosharma/Desktop/Python/DSEMT/exploratory-data-analysis/Kcal Predictions/Predicting Kilocalories with AutoML.ipynb</url>
-          <line>15</line>
-          <option name="timeStamp" value="8" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
