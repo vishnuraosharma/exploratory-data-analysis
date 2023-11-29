@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e43ea1cb-cb88-4be5-a3d7-0801dd332e4d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Kcal Predictions/Model Comparison with SHAP.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kcal Predictions/Model Comparison with SHAP.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Kcal Predictions/Model Comparison with SHAP.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,7 +60,8 @@
       <workItem from="1698101497136" duration="24067000" />
       <workItem from="1698850046306" duration="76835000" />
       <workItem from="1700490360039" duration="50000" />
-      <workItem from="1700490421913" duration="2063000" />
+      <workItem from="1700490421913" duration="2866000" />
+      <workItem from="1701129565806" duration="17396000" />
     </task>
     <servers />
   </component>
