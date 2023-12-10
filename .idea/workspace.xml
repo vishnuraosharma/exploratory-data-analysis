@@ -61,7 +61,10 @@
       <workItem from="1700490360039" duration="50000" />
       <workItem from="1700490421913" duration="2866000" />
       <workItem from="1701129565806" duration="37024000" />
-      <workItem from="1701374105659" duration="4513000" />
+      <workItem from="1701374105659" duration="7807000" />
+      <workItem from="1701798655393" duration="28000" />
+      <workItem from="1701810927233" duration="615000" />
+      <workItem from="1701811996008" duration="34000" />
     </task>
     <servers />
   </component>
@@ -69,6 +72,6 @@
     <option name="version" value="3" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/exploratory_data_analysis$Bootstrap.coverage" NAME="Bootstrap Coverage Results" MODIFIED="1701379447177" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../Loris/QBR Bill" />
+    <SUITE FILE_PATH="coverage/exploratory_data_analysis$Bootstrap.coverage" NAME="Bootstrap Coverage Results" MODIFIED="1701381370648" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../Loris/QBR Bill" />
   </component>
 </project>
