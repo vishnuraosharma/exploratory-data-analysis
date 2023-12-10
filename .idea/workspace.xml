@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="e43ea1cb-cb88-4be5-a3d7-0801dd332e4d" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kcal Predictions/Exploring Nutrient Data to Predict Kilocalories.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Kcal Predictions/Exploring Nutrient Data to Predict Kilocalories.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,6 +66,8 @@
       <workItem from="1701798655393" duration="28000" />
       <workItem from="1701810927233" duration="615000" />
       <workItem from="1701811996008" duration="34000" />
+      <workItem from="1702240482176" duration="3797000" />
+      <workItem from="1702246836688" duration="4720000" />
     </task>
     <servers />
   </component>
