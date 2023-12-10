@@ -6,7 +6,7 @@ This repository contains code and resources related to exploratory data analysis
 
 ## Getting Started
 
-To get started with this project, you can either clone the repository to your local machine or explore the provided Jupyter notebooks online. I've organized (the) notebook (more to come!) based on topic and provided dataset CSV files are provided.
+To get started with this project, you can either clone the repository to your local machine or explore the provided Jupyter notebooks online. I've organized notebooks based on topic and provided dataset CSV files are provided.
 
 ## Requirements
 
